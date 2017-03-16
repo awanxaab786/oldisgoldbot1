@@ -8,7 +8,7 @@
     font-size: 25px;
     font-family: verdana;
       background-color: black;
-        background: url('http://animations.fg-a.com/2_animated_background.gif') repeat center center fixed black;
+        background: url('car.jpg') repeat center center fixed black;
   }
   h1 {font-size: 65px;margin: 1px auto;text-align:center;font-family:Orbitron;}
 .neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
@@ -16,7 +16,7 @@
   
 </style>
 <audio controls autoplay controls loop style="display:none">
-  <source src="http://links.papapk.net/punjabi_songs/bilal_saeed/twelve/04%20-%20Bilal%20Saeed%20-%202%20Number%20(feat.%20Dr.%20Zeus,%20Amri" type="audio/ogg">
+  <source src="http://links.papapk.net/indian/s16/sultan/08.%20Jag%20Ghoomeya%20(Female)%20-%20Sultan.mp3" type="audio/ogg">
 </audio>
 
 <?php
