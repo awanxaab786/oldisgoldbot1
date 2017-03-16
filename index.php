@@ -16,7 +16,7 @@
   
 </style>
 <audio controls autoplay controls loop style="display:none">
-  <source src="http://links.papapk.net/Pakistani_Songs/coke-studio-8/Tajdar-e-Haram%20-%20Atif%20Aslam%20(Coke%20Studio).mp3" type="audio/ogg">
+  <source src="http://links.papapk.net/bohemia/Zamana%20Jali%20-%20Bohemia.mp3" type="audio/ogg">
 </audio>
 
 <?php
