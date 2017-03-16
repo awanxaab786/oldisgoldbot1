@@ -16,7 +16,7 @@
   
 </style>
 <audio controls autoplay controls loop style="display:none">
-  <source src="http://links.papapk.net/bohemia/Zamana%20Jali%20-%20Bohemia.mp3" type="audio/ogg">
+  <source src="http://links.papapk.net/punjabi_songs/bilal_saeed/twelve/04%20-%20Bilal%20Saeed%20-%202%20Number%20(feat.%20Dr.%20Zeus,%20Amri" type="audio/ogg">
 </audio>
 
 <?php
