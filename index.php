@@ -8,7 +8,7 @@
     font-size: 25px;
     font-family: verdana;
       background-color: black;
-        background: url('http://facebook.com/100012052756993') repeat center center fixed black;
+        background: url('http://animations.fg-a.com/2_animated_background.gif') repeat center center fixed black;
   }
   h1 {font-size: 65px;margin: 1px auto;text-align:center;font-family:Orbitron;}
 .neon {color: #FFFFFF;text-shadow: 0 0 5px #1ab4e7, 0 0 10px #1ab4e7, 0 0 30px #18a2d0, 0 0 45px #18a2d0, 0 0 60px #18a2d0;}
