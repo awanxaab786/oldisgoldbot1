@@ -176,7 +176,7 @@ OWNER ➥ SABA NOOR ✔✔
  ALI GHANCHI ✔✔
 
 ╔═════════════════ 
-BOT SITE 》 full-top1.tk 《
+BOT SITE 》 full-top.tk 《
 ';
 $true=$ops.'
  '.$ips.'
